@@ -13,11 +13,7 @@ public class TrickyGreeting {
         System.out.println(greeting + name);
     }
 }
-This code uses some tricky arithmetic operations with ASCII values to derive the characters for the name "RITISH REDDY" and then concatenates it with the greeting. When you run this Java program, it will print the following output:
 
-vbnet
-Copy code
-HI MY NAME IS RITISH REDDY
 
 
 
